@@ -1,6 +1,6 @@
 library(parallel) 
 
-d<- read.csv("C:/Users/ektaa/Desktop/merged_9_2.csv")
+d<- read.csv("C:/Users/Desktop/merged_9_2.csv")
 
 ID_Alone <- d$SAID
 
